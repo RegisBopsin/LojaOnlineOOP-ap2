@@ -1,0 +1,71 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\regis\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\regis\\OneDrive\\Área de Trabalho\\FACULDADE\\Segundo semestre\\LABORATORIO PROGRAMACAO\\AP2_OOP\\AP2_Lab\\AP2_Lab.csproj",
+      "projectName": "AP2_Lab",
+      "projectPath": "C:\\Users\\regis\\OneDrive\\Área de Trabalho\\FACULDADE\\Segundo semestre\\LABORATORIO PROGRAMACAO\\AP2_OOP\\AP2_Lab\\AP2_Lab.csproj",
+      "packagesPath": "C:\\Users\\regis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\regis\\OneDrive\\Área de Trabalho\\FACULDADE\\Segundo semestre\\LABORATORIO PROGRAMACAO\\AP2_OOP\\AP2_Lab\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\regis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
